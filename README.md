@@ -1,4 +1,4 @@
 hib-in-action
 =============
 
-Hibernate in action book
+Hibernate in action book keep-up
